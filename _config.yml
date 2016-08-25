@@ -12,4 +12,8 @@ color:
     - '#31152B'
 layout_spectrum: 0.7898570084944367
 name: Castle Purchasing
+navigation:
+  - name: Profit Enhancing Specialists
+    url: 'http://www.castlepurchasing.co.uk'
+    type: external
 description: The Profit Enhancing Specialists
