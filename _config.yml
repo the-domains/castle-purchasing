@@ -1,4 +1,3 @@
-layout_spectrum: 0.7898570084944367
 typography_spectrum: 0.3200985847506672
 color:
   brandStrength: 0.3249372960999608
@@ -11,4 +10,6 @@ color:
     - '#CC4452'
     - '#723147'
     - '#31152B'
+layout_spectrum: 0.7898570084944367
 name: Castle Purchasing
+description: The Profit Enhancing Specialists
